@@ -106,3 +106,6 @@
     </tr>
   </tbody>
 </table>
+
+Tools:
+- https://www.calculator.net/pace-calculator.html
