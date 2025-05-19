@@ -90,5 +90,19 @@
         <a href="https://results.sporthive.com/events/7327069101514736640">résultats</a>
       </th>
     </tr>
+    <tr>
+      <th>18/05</th>
+      <th>
+        <a href="https://tdl.associationr4c.com/">Trail des lavoirs</a>
+      </th>
+      <th>1096</th>
+      <th>35 km</th>
+      <th>03:25:55</th>
+      <th>5:58 min/km</th>
+      <th>9:36 min/mile</th>
+      <th>
+        <a href="https://trail-des-lavoirs-2025.onsinscrit.com/resultats.php?distance=2&type=scratch_m">résultats</a>
+      </th>
+    </tr>
   </tbody>
 </table>
