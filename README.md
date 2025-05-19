@@ -11,6 +11,7 @@
       <th>Pace (min/km)</th>
       <th>Pace (min/mile)</th>
       <th>Résults</th>
+      <th>Diplomas</th>
     </tr>
   </thead>
   <tbody>
@@ -28,7 +29,10 @@
       <th>4:59 min/km</th>
       <th>8:01 min/mile</th>
       <th>
-        <a href="https://live.breizhchrono.com/external/live5/infos-resultat.jsp?detecteur=&reference=1488071608761-553&dossard=5693&heat-id=1705416894295&ref-kk=1488071608761-553-14296-1705416894295">résultats</a>
+        <a href="https://live.breizhchrono.com/external/live5/infos-resultat.jsp?detecteur=&reference=1488071608761-553&dossard=5693&heat-id=1705416894295&ref-kk=1488071608761-553-14296-1705416894295">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/eiffage_course_viaduc_millau_2024.png">diploma</a>
       </th>
     </tr>
     <tr>
@@ -42,7 +46,10 @@
       <th>5:03 min/km</th>
       <th>8:08 min/mile</th>
       <th>
-        <a href="https://ats-sport.com/resultats_epreuve.php?epreuve=8569&parcours=22168">résultats</a>
+        <a href="https://ats-sport.com/resultats_epreuve.php?epreuve=8569&parcours=22168">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/20km_montpellier_2024.pdf">diploma</a>
       </th>
     </tr>
     <tr>
@@ -59,7 +66,10 @@
       <th>6:21 min/km</th>
       <th>10:13 min/mile</th>
       <th>
-        <a href="https://my.raceresult.com/332272/">résultats</a>
+        <a href="https://my.raceresult.com/332272/">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/lyon_urban_trail_2025.pdf">diploma</a>
       </th>
     </tr>
     <tr>
@@ -73,7 +83,10 @@
       <th>5:10 min/km</th>
       <th>8:19 min/mile</th>
       <th>
-        <a href="https://www.sportinnovation.fr/Evenements/Resultats/6955">résultats</a>
+        <a href="https://www.sportinnovation.fr/Evenements/Resultats/6955">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/abalon_marathon_nantes_2025.pdf">diploma</a>
       </th>
     </tr>
     <tr>
@@ -87,7 +100,10 @@
       <th>5:19 min/km</th>
       <th>8:33 min/mile</th>
       <th>
-        <a href="https://results.sporthive.com/events/7327069101514736640">résultats</a>
+        <a href="https://results.sporthive.com/events/7327069101514736640">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/24h_sintra_2025.png">diploma</a>
       </th>
     </tr>
     <tr>
@@ -101,7 +117,10 @@
       <th>5:58 min/km</th>
       <th>9:36 min/mile</th>
       <th>
-        <a href="https://trail-des-lavoirs-2025.onsinscrit.com/resultats.php?distance=2&type=scratch_m">résultats</a>
+        <a href="https://trail-des-lavoirs-2025.onsinscrit.com/resultats.php?distance=2&type=scratch_m">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/trail_des_lavoirs_2025.pdf">diploma</a>
       </th>
     </tr>
   </tbody>
