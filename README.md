@@ -128,3 +128,47 @@
 
 Tools:
 - https://www.calculator.net/pace-calculator.html
+
+## Recipes:
+
+🧪 Recipe for 4 gels (150 ml each) – maltodextrin + table sugar version (ChatGPT generated):
+
+⚖️ Total goal:
+- 320g of carbs in total (80g × 4)
+- Target ratio: ~55% glucose / ~45% fructose
+
+Composition:
+- 116g maltodextrin
+- 120g table sugar
+
+➡️ Total glucose = 116 + 60 = 176g
+➡️ Total fructose = 60g
+➡️ Glucose:fructose ≈ 1:0.7
+
+🧾 Ingredients (for 4 gels):
+- 116g maltodextrin
+- 120g table sugar (sucrose)
+- 5g pectin
+- 4g sodium alginate
+- 320g boiling water (about 40% of final volume)
+
+🥣 Instructions:
+1. Boil 320g of water.
+2. In a large mixing bowl, combine:
+  - 116g maltodextrin
+  - 120g table sugar
+  - 5g pectin
+  - 4g sodium alginate
+3. Pour the boiling water over the dry mix.
+4. Blend thoroughly with a hand mixer or immersion blender until fully dissolved.
+5. Pour into 4 reusable food pouches (150 ml each).
+6. Let cool — it will thicken into a gel as it sets.
+
+Each gel will contain about 105g of carbs, with a smooth, drinkable yet thick consistency ideal for endurance efforts.
+
+Pricing: 
+**Maltodextrine**: 17,99/1000g
+**Pectin**: 14,90/100g
+**Sodium alginate**: 26,91/500g
+
+**Total**: (2.09 + 0.75 * 0.22) / 4 = 0.77€ / gel
