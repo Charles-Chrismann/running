@@ -13,11 +13,14 @@
       <th>Pace (min/mile)</th>
       <th>Résults</th>
       <th>Diplomas</th>
+      <th>
+        <img src="./assets/Index.webp" alt="utmb index" />
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th colspan="10">2024</th>
+      <th colspan="11">2024</th>
     </tr>
     <tr>
       <th>22/09</th>
@@ -36,6 +39,7 @@
       <th>
         <a href="./diplomas/eiffage_course_viaduc_millau_2024.png">diploma</a>
       </th>
+      <th></th>
     </tr>
     <tr>
       <th>24/11</th>
@@ -54,9 +58,10 @@
       <th>
         <a href="./diplomas/20km_montpellier_2024.pdf">diploma</a>
       </th>
+      <th></th>
     </tr>
     <tr>
-      <th colspan="10">2025</th>
+      <th colspan="11">2025</th>
     </tr>
     <tr>
       <th>30/03</th>
@@ -75,6 +80,7 @@
       <th>
         <a href="./diplomas/lyon_urban_trail_2025.pdf">diploma</a>
       </th>
+      <th><img src="./assets/50K.webp" alt="utmb index" /></th>
     </tr>
     <tr>
       <th>27/04</th>
@@ -93,6 +99,7 @@
       <th>
         <a href="./diplomas/abalon_marathon_nantes_2025.pdf">diploma</a>
       </th>
+      <th></th>
     </tr>
     <tr>
       <th>10/05</th>
@@ -111,6 +118,7 @@
       <th>
         <a href="./diplomas/24h_sintra_2025.png">diploma</a>
       </th>
+      <th></th>
     </tr>
     <tr>
       <th>18/05</th>
@@ -129,6 +137,7 @@
       <th>
         <a href="./diplomas/trail_des_lavoirs_2025.pdf">diploma</a>
       </th>
+      <th></th>
     </tr>
     <tr>
       <th>15/06</th>
@@ -136,7 +145,7 @@
         <a href="https://saint-jacques.utmb.world/">Trail du Saint-Jacques by UTMB® 2025 - Monistrail - 50K</a>
       </th>
       <th>4739</th>
-      <th>53.1 km (2050m D+)</th>
+      <th>53.1 km</th>
       <th>2050</th>
       <th>06:39:43</th>
       <th>7:34 min/km</th>
@@ -146,6 +155,7 @@
       </th>
       <th>
       </th>
+      <th><img src="./assets/50K.webp" alt="utmb index" /></th>
     </tr>
   </tbody>
 </table>
