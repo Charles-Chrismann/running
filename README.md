@@ -123,6 +123,22 @@
         <a href="./diplomas/trail_des_lavoirs_2025.pdf">diploma</a>
       </th>
     </tr>
+    <tr>
+      <th>15/06</th>
+      <th>
+        <a href="https://saint-jacques.utmb.world/">Trail du Saint-Jacques by UTMB® 2025 - Monistrail - 50K</a>
+      </th>
+      <th>4739</th>
+      <th>53.1 km (2050m D+)</th>
+      <th>06:39:43</th>
+      <th>7:34 min/km</th>
+      <th>12:11 min/mile</th>
+      <th>
+        <a href="https://utmb.world/utmb-index/races/4004.traildusaint-jacquesbyutmb-monistrail-50k.2025">results</a>
+      </th>
+      <th>
+      </th>
+    </tr>
   </tbody>
 </table>
 
@@ -131,7 +147,7 @@ Tools:
 
 ## Recipes:
 
-🧪 Recipe for 4 gels (150 ml each) – maltodextrin + table sugar version (ChatGPT generated):
+🧪 Recipe for 4 gels (150 ml each) – maltodextrin + table sugar version (inspired from https://www.reddit.com/r/running/comments/1axmkr4/a_guide_budgethomemade_running_nutrition_gels/):
 
 ⚖️ Total goal:
 - 320g of carbs in total (80g × 4)
