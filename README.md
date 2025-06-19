@@ -7,6 +7,7 @@
       <th>Race</th>
       <th>Race Bib</th>
       <th>Distance</th>
+      <th>D+ (m)</th>
       <th>Time</th>
       <th>Pace (min/km)</th>
       <th>Pace (min/mile)</th>
@@ -16,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <th colspan="7">2024</th>
+      <th colspan="10">2024</th>
     </tr>
     <tr>
       <th>22/09</th>
@@ -25,6 +26,7 @@
       </th>
       <th>5693</th>
       <th>23.7 km</th>
+      <th>825</th>
       <th>02:07:24</th>
       <th>4:59 min/km</th>
       <th>8:01 min/mile</th>
@@ -42,6 +44,7 @@
       </th>
       <th>237</th>
       <th>20 km</th>
+      <th>243</th>
       <th>01:41:05</th>
       <th>5:03 min/km</th>
       <th>8:08 min/mile</th>
@@ -53,7 +56,7 @@
       </th>
     </tr>
     <tr>
-      <th colspan="7">2025</th>
+      <th colspan="10">2025</th>
     </tr>
     <tr>
       <th>30/03</th>
@@ -62,6 +65,7 @@
       </th>
       <th>399</th>
       <th>37 km</th>
+      <th>1500</th>
       <th>03:54:50</th>
       <th>6:21 min/km</th>
       <th>10:13 min/mile</th>
@@ -79,6 +83,7 @@
       </th>
       <th>4147</th>
       <th>42.195 km</th>
+      <th></th>
       <th>03:37:50</th>
       <th>5:10 min/km</th>
       <th>8:19 min/mile</th>
@@ -96,6 +101,7 @@
       </th>
       <th>269</th>
       <th>42.195 km</th>
+      <th></th>
       <th>03:44:17</th>
       <th>5:19 min/km</th>
       <th>8:33 min/mile</th>
@@ -113,6 +119,7 @@
       </th>
       <th>1096</th>
       <th>35 km</th>
+      <th>872</th>
       <th>03:25:55</th>
       <th>5:58 min/km</th>
       <th>9:36 min/mile</th>
@@ -130,6 +137,7 @@
       </th>
       <th>4739</th>
       <th>53.1 km (2050m D+)</th>
+      <th>2050</th>
       <th>06:39:43</th>
       <th>7:34 min/km</th>
       <th>12:11 min/mile</th>
