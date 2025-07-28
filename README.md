@@ -157,6 +157,24 @@
       </th>
       <th><img src="./assets/50K.webp" alt="utmb index" /></th>
     </tr>
+    <tr>
+      <th>29/06</th>
+      <th>
+        <a href="https://www.running-chateaudeversailles.com/">Running au Château de Versailles - 15km - Royale</a>
+      </th>
+      <th>22066</th>
+      <th>15 km</th>
+      <th>0</th>
+      <th>01:08:05</th>
+      <th>4:32 min/km</th>
+      <th>7:18 min/mile</th>
+      <th>
+        <a href="https://www.acn-timing.com/?lng=FR#/events/2156756482689113/ctx/20250629_versailles/generic/197994_1/home/LIVE1">results</a>
+      </th>
+      <th>
+      </th>
+      <th></th>
+    </tr>
   </tbody>
 </table>
 
