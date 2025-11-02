@@ -175,6 +175,42 @@
       </th>
       <th></th>
     </tr>
+    <tr>
+      <th>03/10</th>
+      <th>
+        <a href="https://www.ultra-trail-montagnes-jura.fr/">Ultra Trail des Montagnes du Jura</a>
+      </th>
+      <th>465</th>
+      <th>173.8 km</th>
+      <th>7330</th>
+      <th>DNF</th>
+      <th> - </th>
+      <th> - </th>
+      <th>
+      </th>
+      <th>
+      </th>
+      <th><img src="./assets/100M.webp" alt="utmb index" /></th>
+    </tr>
+    <tr>
+      <th>01/11</th>
+      <th>
+        <a href="https://www.lutbynight.com">Lyon Urban Trail By Night</a>
+      </th>
+      <th>1028</th>
+      <th>30 km</th>
+      <th>1000</th>
+      <th>03:11:14</th>
+      <th>6:22 min/km</th>
+      <th>10:16 min/mile</th>
+      <th>
+        <a href="https://chronoconsult.fr/result/2025_runningman_lutbynight/">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/lyon_urban_trail_by_night_2025.pdf">diploma</a>
+      </th>
+      <th><img src="./assets/50K.webp" alt="utmb index" /></th>
+    </tr>
   </tbody>
 </table>
 
