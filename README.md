@@ -237,7 +237,7 @@
     <tr>
       <th>26/04</th>
       <th>
-        <a href="https://alumni.devinci.fr/fr/event/devinci-run-2026/2026/04/16/425">Devinci Run</a>
+        <a href="https://www.marathondenantes.com/">Abalone Marathon de Nantes 2026</a>
       </th>
       <th>5814</th>
       <th>42.195 km</th>
