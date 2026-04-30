@@ -212,6 +212,28 @@
       </th>
       <th><img src="./assets/50K.webp" alt="utmb index" /></th>
     </tr>
+    <tr>
+      <th colspan="11">2026</th>
+    </tr>
+    <tr>
+      <th>16/04</th>
+      <th>
+        <a href="https://alumni.devinci.fr/fr/event/devinci-run-2026/2026/04/16/425">Devinci Run</a>
+      </th>
+      <th>31</th>
+      <th>10 km</th>
+      <th>85</th>
+      <th>40:22</th>
+      <th>4:02 min/km</th>
+      <th>6:30 min/mile</th>
+      <th>
+        <a href="https://glive.oxybol.fr/public/g-live.html?f=../oxybol/de_vinci_run/2026/De_Vinci_Run.clax">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/devinci-run_2025.pdf">diploma</a>
+      </th>
+      <th></th>
+    </tr>
   </tbody>
 </table>
 
