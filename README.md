@@ -234,6 +234,25 @@
       </th>
       <th></th>
     </tr>
+    <tr>
+      <th>26/04</th>
+      <th>
+        <a href="https://alumni.devinci.fr/fr/event/devinci-run-2026/2026/04/16/425">Devinci Run</a>
+      </th>
+      <th>5814</th>
+      <th>42.195 km</th>
+      <th>244</th>
+      <th>03:23:38</th>
+      <th>4:50 min/km</th>
+      <th>7:46 min/mile</th>
+      <th>
+        <a href="https://ocsport.sportinnovation.fr/race/80639">results</a>
+      </th>
+      <th>
+        <a href="./diplomas/diplôme_CHRISMANN_Charles.pdf">diploma</a>
+      </th>
+      <th></th>
+    </tr>
   </tbody>
 </table>
 
