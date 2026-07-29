@@ -253,6 +253,23 @@
       </th>
       <th></th>
     </tr>
+    <tr>
+      <th>15/05</th>
+      <th>
+        <a href="https://www.marathondenantes.com/">Trail Alsace by UTMB 2026 - 100M</a>
+      </th>
+      <th>462</th>
+      <th>158.7 km</th>
+      <th>5100</th>
+      <th>31:18:15</th>
+      <th>11:50 min/km</th>
+      <th>19:03 min/mile</th>
+      <th>
+        <a href="https://alsace.utmb.world/fr/races-runners/runners/results?year=2026&raceUri=35486.trailalsacebyutmbultra-traildeschevaliers.2026&page=10&offset=400&limit=50">results</a>
+      </th>
+      <th></th>
+      <th><img src="./assets/100M.webp" alt="utmb index" /></th>
+    </tr>
   </tbody>
 </table>
 
