@@ -256,7 +256,7 @@
     <tr>
       <th>15/05</th>
       <th>
-        <a href="https://www.marathondenantes.com/">Trail Alsace by UTMB 2026 - 100M</a>
+        <a href="https://alsace.utmb.world">Trail Alsace by UTMB 2026 - 100M</a>
       </th>
       <th>462</th>
       <th>158.7 km</th>
@@ -269,6 +269,72 @@
       </th>
       <th></th>
       <th><img src="./assets/100M.webp" alt="utmb index" /></th>
+    </tr>
+    <tr>
+      <th>13/09</th>
+      <th>
+        <a href="https://www.course-eiffage-viaducdemillau.fr">Course Eiffage du Viaduc de Millau</a>
+      </th>
+      <th>2972</th>
+      <th>23.7 km</th>
+      <th>430</th>
+      <th>1:48:37</th>
+      <th>4:38 min/km</th>
+      <th>7:22 min/mile</th>
+      <th>
+        <a href="https://live.breizhchrono.com/external/live5/infos-resultat.jsp?detecteur=&reference=1488071608761-903&dossard=2972&heat-id=1646753936332&ref-kk=">results</a>
+      </th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>20/09</th>
+      <th>
+        <a href="#">Foulée logeoise</a>
+      </th>
+      <th>155</th>
+      <th>10 km</th>
+      <th>125</th>
+      <th>42:41</th>
+      <th>4:19 min/km</th>
+      <th>6:52 min/mile</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>02/10</th>
+      <th>
+        <a href="#">UTMJ</a>
+      </th>
+      <th>181</th>
+      <th>175 km</th>
+      <th>7000</th>
+      <th>DNF</th>
+      <th>-</th>
+      <th>-</th>
+      <th>
+        <a href="https://utmj.v3.livetrail.net/fr/2026/runners/181?raceId=utmj">results</a>
+      </th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>18/10</th>
+      <th>
+        <a href="https://www.running-chateaudeversailles.com/course-royale/">la course royale</a>
+      </th>
+      <th>28006</th>
+      <th>15 km</th>
+      <th>0</th>
+      <th>1:01:04</th>
+      <th>6:04</th>
+      <th>6:33</th>
+      <th>
+        <a href="https://www.acn-timing.com/?lng=FR#/events/2156305510976149/ctx/20261018_versailles/generic/197994_1/home/LIVE1">results</a>
+      </th>
+      <th></th>
+      <th></th>
     </tr>
   </tbody>
 </table>
